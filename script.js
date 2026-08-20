@@ -148,7 +148,7 @@ else if (userInput.toLowerCase().includes("kya kar rahe ") || userInput.toLowerC
     botMessage.textContent = "kuch nahi";
 }else if (userInput.toLowerCase().includes("bhbhbhh") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = "ojbi";
-}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+}else if (userInput.toLowerCase().includes("hbh") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = ".";
 }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = ".";

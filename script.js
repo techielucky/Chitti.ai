@@ -141,190 +141,190 @@ else if (userInput.toLowerCase().includes("ind vs pak") || userInput.toLowerCase
 }else if (userInput.toLowerCase().includes("What is the shortest measurable day on Earth") ) {
     botMessage.textContent = "Due to Earth’s irregular rotation speed, the shortest recorded day was June 29, 2022, when Earth completed its rotation 1.59 milliseconds faster than 24 hours.";
 }
-else if (userInput.toLowerCase().includes("sab badiya") || userInput.toLowerCase().includes("tum bure ho")) {
+else if (userInput.toLowerCase().includes("sab badiya?") || userInput.toLowerCase().includes("tum bure ho")) {
     botMessage.textContent = "Main toh badiya hu Aap sunao";
 } 
-// else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-//     botMessage.textContent = ".";
-// }
+else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = ".";
+}
 
     //trigonometry ratios 
     else if (userInput.toLowerCase().includes("sin 30") || userInput.toLowerCase().includes("cos 60")) {

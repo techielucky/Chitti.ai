@@ -144,7 +144,7 @@ else if (userInput.toLowerCase().includes("ind vs pak") || userInput.toLowerCase
 else if (userInput.toLowerCase().includes("sab badiya?") || userInput.toLowerCase().includes("tum bure ho")) {
     botMessage.textContent = "Main toh badiya hu Aap sunao";
 } 
-else if (userInput.toLowerCase().includes("njng m ") || userInput.toLowerCase().includes("")) {
+else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = ".";
 }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = ".";

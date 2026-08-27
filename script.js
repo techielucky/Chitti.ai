@@ -154,8 +154,8 @@ else if (userInput.toLowerCase().includes("kya kar rahe ") || userInput.toLowerC
     botMessage.textContent = ".";
 }else if (userInput.toLowerCase().includes("n m") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = "khvcjgchgxhgcngcdchg";
-}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("nb ") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = "khvjgcjgv";
 }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = ".";
 }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {

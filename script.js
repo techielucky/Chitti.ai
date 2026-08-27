@@ -153,7 +153,7 @@ else if (userInput.toLowerCase().includes("kya kar rahe ") || userInput.toLowerC
 }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = ".";
 }else if (userInput.toLowerCase().includes("n m") || userInput.toLowerCase().includes("")) {
-    botMessage.textContent = ".";
+    botMessage.textContent = "khvcjgchgxhgcngcdchg";
 }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = ".";
 }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {

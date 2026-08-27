@@ -158,8 +158,8 @@ else if (userInput.toLowerCase().includes("kya kar rahe ") || userInput.toLowerC
     botMessage.textContent = "khvjgcjgv";
 }else if (userInput.toLowerCase().includes(" ngc") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = "jgcvh";
-}else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
-    botMessage.textContent = ".";
+}else if (userInput.toLowerCase().includes("bchv") || userInput.toLowerCase().includes("")) {
+    botMessage.textContent = "jbkhb";
 }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
     botMessage.textContent = ".";
 }else if (userInput.toLowerCase().includes("") || userInput.toLowerCase().includes("")) {
